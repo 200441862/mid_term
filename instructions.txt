@@ -1,0 +1,5 @@
+Complete the following files
+- index.php
+- /bookings/insert.php
+- /bookings/edit.php
+- /bookings/update.php
